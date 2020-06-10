@@ -1,0 +1,11 @@
+.imgbox {
+  height: 500px;
+  width: 400px;
+  border: 1px solid black;
+}
+.title {
+  font-size: 40px;
+  font-weight: 900;
+}
+.info {
+}
